@@ -20,8 +20,8 @@ Use imwrite(filename, image) to write the image.
 End the program and close the output image windows.
 ## Program:
 ```python
-# Developed By: Sherwin Roger R.D
-# Register Number : 212220230046
+# Developed By: Prasanna Kumar
+# Register Number : 212220230035
 # To Read,display the image
 import cv2
 image=cv2.imread("1.jpeg")
