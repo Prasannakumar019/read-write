@@ -1,5 +1,5 @@
 ## EX NO:01
-## DATE:01.04.22
+## DATE:30.03.22
 # <p align="center">READ AND WRITE AN IMAGE
 ## AIM
 To write a python program using OpenCV to do the following image manipulations.
